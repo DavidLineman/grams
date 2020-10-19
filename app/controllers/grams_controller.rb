@@ -3,3 +3,4 @@ class GramsController < ApplicationController
     @grams = Grams.all
   end
 end
+
